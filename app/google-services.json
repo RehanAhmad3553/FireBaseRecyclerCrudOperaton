@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93380756304",
+    "project_id": "learningproject-c9425",
+    "storage_bucket": "learningproject-c9425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93380756304:android:744ca976202b89aed2a255",
+        "android_client_info": {
+          "package_name": "com.example.demofirebasetorecycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93380756304-688vniiu144823200he3men0g13lrd51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCng27wjWiWHyoSYGZZ0tkS1AoaeKcEvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93380756304-688vniiu144823200he3men0g13lrd51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
